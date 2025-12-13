@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @mashamegul
-- 👀 I’m completing a Bachelor of Computer Science
+- Microsoft Incoming Graduate Software Engineer
+- BCompSci Graduate @ UQ
+
 - Atlassian SWE Intern (Jira, Mobile) 2023-2024
 - Amazon SWE Intern (Grocery) 2024-2025
 
