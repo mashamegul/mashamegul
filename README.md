@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mashamegul
-- Microsoft Incoming Graduate Software Engineer
+- Software Engineer at Microsoft
 - BCompSci Graduate @ UQ
 
 - Atlassian SWE Intern (Jira, Mobile) 2023-2024
